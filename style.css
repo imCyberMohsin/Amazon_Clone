@@ -412,6 +412,7 @@ ul {
     background-color: transparent;
     color: white;
     border: 0.1px solid #bebebe;
+    border-radius: 3px;
     font-size: 13px;
     height: 32px;
     width: 120px;
